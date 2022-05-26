@@ -7,7 +7,6 @@
 - 🤔 I’m looking for help with getting a girl 😂
 - 💬 Feel free to ask about any of my projects or anything
 - ⚡ Fun fact: "The world wastes about 1 billion metric tons of food each year and Each day, 25,000 people, including more than 10,000 children, die from hunger and related causes. Some 854 million people worldwide are estimated to be undernourished, and high food prices may drive another 100 million into poverty and hunger."
--->
 
 
 ## 🌐Socials
@@ -20,14 +19,9 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Sheikh-Yawar&theme=algolia&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sheikh-Yawar&theme=algolia&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Sheikh-Yawar&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 😂Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Sheikh-Yawar&icon=5&color=1)](https://visitcount.itsvg.in)
