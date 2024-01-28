@@ -1,11 +1,11 @@
 # 💫About Me :
 ### Hola, I'm Sheikh Yawar!👋
 
-- 🔭 I’m currently doing my internship in Quantiphi.
+- 🔭 I’m currently a Platform Engineer at Quantiphi.
 - 🌱 I’m learning a whole lot of new things there.
 - 👯 I’m looking to collaborate on any web dev or app dev project.
-- 🤔 I’m looking for help with getting a girl 😂
-- 💬 Feel free to ask about any of my projects or anything
+- 🤔 I’m looking for help in getting a girl 😂.
+- 💬 Feel free to ask about any of my projects or anything.
 - ⚡ Fun fact: "The world wastes about 1 billion metric tons of food each year and Each day, 25,000 people, including more than 10,000 children, die from hunger and related causes. Some 854 million people worldwide are estimated to be undernourished, and high food prices may drive another 100 million into poverty and hunger."
 
 
